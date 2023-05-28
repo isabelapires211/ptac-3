@@ -1,0 +1,34 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "João Garcia",
+      "num_inscricao": 1003,
+      "curso": "informatica"
+    },
+    {
+      "id": 2,
+      "nome": "Karolainny Panucci",
+      "num_inscricao": 1006,
+      "curso": "informatica"
+    },
+    {
+      "id": 3,
+      "nome": "Isabela Pires",
+      "num_inscricao": 1008,
+      "curso": "informatica"
+    },
+    {
+      "nome": "Karolainny Ribeiro Panucci",
+      "num_inscricao": "555",
+      "curso": "informatica",
+      "id": 4
+    },
+    {
+      "nome": "Karolainny Ribeiro Panucci",
+      "num_inscricao": "8888",
+      "curso": "informatica",
+      "id": 5
+    }
+  ]
+}
